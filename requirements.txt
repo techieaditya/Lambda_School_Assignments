@@ -1,1 +1,5 @@
-pip install numpy matplotlib scipy statistics pandas
+numpy
+matplotlib
+scipy
+statistics
+pandas
